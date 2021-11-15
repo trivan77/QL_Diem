@@ -1,0 +1,20 @@
+.logo{
+    border-top: 2px groove #23a5af;
+    border-bottom: 2px groove #23a5af;
+    text-align: center
+}
+
+.container_footer{
+    display: flex;
+    background-color: #0c7a47;
+}
+.infor{
+
+}
+.map{
+    height: 50px;
+    width: 50px;
+}
+.authority{
+    text-align: center;
+}

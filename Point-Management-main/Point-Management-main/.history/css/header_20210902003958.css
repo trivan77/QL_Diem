@@ -1,0 +1,27 @@
+html {
+    font-size: 62.5%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.logo{
+    border-top: 2px groove #23a5af;
+    border-bottom: 2px groove #23a5af;
+    text-align: center;
+    margin: 5px 300px 5px 300px;
+}
+
+.container_footer{
+    display: flex;
+    justify-content: space-around;
+    background-color: #0c7a47;
+    margin: 5px 300px 5px 300px;
+}
+.infor{
+
+}
+.map{
+    height: 50px;
+    width: 50px;
+}
+.authority{
+    text-align: center;
+}
